@@ -1,0 +1,6 @@
+image,caption
+placeholder_image.jpg,A dog is running in the grass.
+placeholder_image.jpg,A brown dog is playing.
+placeholder_image.jpg,The dog jumps high.
+placeholder_image.jpg,A cute dog.
+placeholder_image.jpg,Happy dog.

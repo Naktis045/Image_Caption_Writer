@@ -1,0 +1,13 @@
+# Python virtual environment
+venv/
+
+# TensorFlow checkpoints
+tf_checkpoints/
+
+# Other common large files you might want to ignore
+*.pth
+*.pt
+*.h5
+*.keras
+__pycache__/
+.ipynb_checkpoints/
